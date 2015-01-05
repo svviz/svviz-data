@@ -1,2 +1,0 @@
-# created from HG002/3/4 ashkenazi trio; variant called originally from complete genomics
---type mei -o rf -b {data}/mei_chr22.0.sorted.bam -b {data}/mei_chr22.1.sorted.bam -b {data}/mei_chr22.2.sorted.bam {data}/chr22.fa {data}/l1.fa chr22 22715518 L1HS + 5 6070
