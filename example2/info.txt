@@ -1,0 +1,2 @@
+# created from HG002/3/4 ashkenazi trio; variant called originally from complete genomics
+--type inv -o rf -b {data}/inversion_chr4.0.sorted.bam -b {data}/inversion_chr4.1.sorted.bam -b {data}/inversion_chr4.2.sorted.bam {data}/chr4_short.fa chr4 88847163 88858699
